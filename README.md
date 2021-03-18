@@ -2,7 +2,7 @@
 PHP Script that creates Non-Reply Anon SMS using ClickSend API  
     
 ### GET YOUR API DETAILS   
-• Open http://ClickSend.com
+• Open http://ClickSend.com    
 • Create Free Account   
 • Get Hardly Working API Key    
 > ( Tested AND THE website is useless - if you're lucky enough to actually make an account and get your key - not likely at all, you can continue.)  
