@@ -2,12 +2,12 @@
 PHP Script that creates Non-Reply Anon SMS using ClickSend API  
       
   
-This project was to understand the new methods of SMS and Email vulnerability exploitation.  
+> This project was to understand the new methods of SMS and Email vulnerability exploitation.  
 Both SMS & Email providers allow to provide a NAME rather than phone number or email address, this name can be modified to be something like "Anon"  
   
-In this example, we send an SMS from our ClickSend account to a test phone - the phone receives a message from "Anon" that says "This sender doesn't except replies".
+> In this example, we send an SMS from our ClickSend account to a test phone - the phone receives a message from "Anon" that says "This sender doesn't except replies".
 
-THIS SMS will be anonymous "Linked only to the accounts API Key".  
+> THIS SMS will be anonymous "Linked only to the accounts API Key".  
 
   
 Setting a name such as "Private" - can be seen as illegal in many countries as it's supposed to be illegal to send Private SMS in many places.
